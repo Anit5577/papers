@@ -11,4 +11,4 @@ constrain the initial conditions (Lada & Lada 2003).
 Lada & Lada (2003) claim that 70-90% of all stars are born in a clustered environment.
 
 #Methods
-There are method to my madness.
+There is method to my madness and I am making all of this up as I go along.
